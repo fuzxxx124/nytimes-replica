@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The New York Times - Replica</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <div class="logo">
+            <img src="images/logo.png" alt="The New York Times Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">World</a></li>
+                <li><a href="#">Politics</a></li>
+                <li><a href="#">Business</a></li>
+                <li><a href="#">Technology</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <section class="featured-articles">
+            <!-- Article 1 -->
+            <article class="article">
+                <img src="images/article1.jpg" alt="A 30-Year-Old Memecoin Trader Who Lost It All">
+                <h2><a href="#">A 30-Year-Old Memecoin Trader Who Lost It All</a></h2>
+                <p>The Fall of Iceman: A 30-Year-Old Memecoin Trader Who Lost It All</p>
+                <p>In the unpredictable world of cryptocurrency, where fortunes rise and fall with the speed of a tweet or meme, one man’s dreams were shattered as he chased the promise of instant wealth. This is the tragic story of "Iceman," a 30-year-old memecoin trader who, in his relentless pursuit of riches, lost everything—his home, his wife, and his three children.</p>
+
+                <h3>A Dream Frozen in Code</h3>
+                <p>Iceman, whose real name was Nick Anderson, was a man with big ambitions. Growing up in a working-class neighborhood, he always dreamed of escaping the grind of nine-to-five life. When he first heard about cryptocurrencies, and especially memecoins—coins born from internet jokes and memes—he saw it as his golden ticket.</p>
+                <p>“I thought I was onto something special,” Nick later confessed. “People were getting rich overnight. It was like an open invitation to a new life, one where I didn’t have to struggle every day just to get by.”</p>
+                <p>Nick quickly adopted the online persona of “Iceman,” a nod to his cool, calculated approach to trading. He started small, investing in Dogecoin after watching the price skyrocket in 2021. The initial success was intoxicating. What started as a few hundred dollars turned into thousands as he saw his investments grow.</p>
+                <p>But the lure of memecoins—volatile, unpredictable, but incredibly profitable—drove Iceman deeper into the digital rabbit hole. He was hooked. The thrill of watching the market ebb and flow, the excitement of jumping in just before the next coin hit it big—it was an addiction.</p>
+
+                <h3>The Descent Into Risk</h3>
+                <p>As the months went by, Iceman’s strategy grew bolder. What had started as cautious, small investments soon turned into reckless bets. He poured his savings into lesser-known, high-risk memecoins, believing they would yield the same returns that had made early investors wealthy. When one coin crashed, he doubled down, convinced that the next would be the one to turn his life around.</p>
+                <p>“I had a feeling, a gut feeling that it was all going to pay off,” Iceman explained in the aftermath. “Everyone said I was crazy, but I didn’t care. I had seen it happen before. People got rich fast. It could happen to me.”</p>
+                <p>But the market was fickle, and the memecoin bubble was ready to burst. The coins that had once surged in value were now plummeting. Iceman’s portfolio, once brimming with hope, started to wither. And just as quickly as it had appeared, the wealth that had seemed so attainable vanished.</p>
+
+                <h3>The Collateral Damage</h3>
+                <p>In the midst of his financial decline, Iceman’s personal life began to unravel. His wife, Maria, had always supported his ambitions—at first. But as the months wore on, the strain of his obsession with memecoins began to take its toll. Arguments about money, his constant neglect of family time, and his refusal to face the reality of his losses created an insurmountable distance between them.</p>
+                <p>“I didn’t even recognize him anymore,” Maria recalled. “He wasn’t the person I married. He was consumed with the idea of making money, of striking it rich, and nothing else seemed to matter. I tried to talk to him, but he was always looking at his phone or computer, chasing the next coin.”</p>
+                <p>Maria, unable to watch her family crumble under the weight of Nick’s obsession, eventually made the painful decision to leave. She took their three children and moved out of the house they had worked so hard to buy. Iceman was left alone, his dreams of a better life turned to dust.</p>
+                <p>“The kids didn’t deserve this,” Maria said, her voice breaking. “I didn’t know how to make him see that we were slipping away, but he was so focused on these coins, these numbers, that it felt like we didn’t even exist to him anymore.”</p>
+                <p>Soon after, the house, once their sanctuary, was sold to cover mounting debts. Iceman was now facing the harsh reality of his choices: financially bankrupt, emotionally broken, and without the family he had hoped to support through his success.</p>
+
+                <h3>A Cold Reality</h3>
+                <p>Now, Iceman lives in a modest apartment, far from the dreams of luxury he once had. He spends his days reflecting on the wreckage left in his wake. There is no easy path back from the losses he’s experienced. And while the market has continued its cyclical nature, with new coins rising and falling, Iceman no longer has the heart to play the game.</p>
+                <p>“I was so focused on winning that I didn’t see what was slipping away,” Iceman said, staring out the window of his small apartment. “I thought I was doing it for them—for my family. But I wasn’t. I was doing it for me. And now I have nothing left.”</p>
+                <p>The weight of his mistakes hangs heavy on his shoulders. His relationships, once strong and filled with love, are now fractured beyond repair. His children are growing up without him in their daily lives, and Iceman knows that nothing can replace the years he lost chasing a fleeting dream.</p>
+                <p>“I’ll never get that time back,” he admits quietly. “The coins will always be there. But I won’t.”</p>
+
+                <h3>A Cautionary Tale</h3>
+                <p>Iceman’s story is a warning to anyone who thinks the cryptocurrency world offers a shortcut to success. It’s a reminder that behind every chart and digital wallet is a person, and that the pursuit of wealth, if taken too far, can cost more than just money. It can cost everything you hold dear.</p>
+                <p>For now, Iceman is focused on rebuilding his life, though he knows that recovery is a long and uncertain road. He hopes that his story will serve as a lesson for others—one that underscores the importance of balance, perspective, and the value of the things that truly matter.</p>
+                <p>“I wish I could go back and make different choices,” Iceman says, his voice tinged with regret. “But I can’t. All I can do now is hope others see the danger in chasing dreams that aren’t real. And maybe, just maybe, I’ll learn to live with what I have left.”</p>
+                <p>As Iceman continues to navigate the aftermath of his choices, his story remains a stark reminder of the consequences of chasing fleeting digital riches. In the end, it’s not the coins or the market trends that define us, but the relationships we build and the love we nurture along the way.</p>
+            </article>
+        </section>
+
+        <section class="latest-news">
+            <h2>Latest News</h2>
+            <ul>
+                <li><a href="#">Global Financial Crisis Looms as Markets Fall</a></li>
+                <li><a href="#">Tech Giants Struggle with AI Regulation</a></li>
+                <li><a href="#">New Cryptocurrency Coins Emerge in 2025</a></li>
+                <li><a href="#">Stock Market Recovery: What Experts Are Saying</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 The New York Times Replica</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
